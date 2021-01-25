@@ -68,6 +68,10 @@ If you know anyone who would be interested in participating, share this project 
 * Compile list of appropriate grind sizes for popular grinders to get near targeted 1.25mm diameter
 * Community or forum for discussion
 
+# Disclaimer
+
+I do not work in the coffee industry and have no vested interest in the results of this data, and am only providing this as a way for the community to share their results in one place. Anyone who submits any data to this repository implicitly acknowledges that they have no vested interest in the grinder they are submitting the data for.
+
 # Special Thanks
 
 * Jonathan Gagne for writing the coffeegrindsize app
