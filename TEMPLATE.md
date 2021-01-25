@@ -2,6 +2,8 @@ Grinder: *Your Grinder Company and Model, e.g. Comandante C40 Mk3*
 
 Grind Level: *Numerical grind setting you used*
 
+Grinder Details: *Anything else to note about your grinder, e.g. custom burrs, modifications, rpm settings, etc*
+
 Origin: *Country where your single origin beans are from, plus optionally the region, and name of farm, e.g. Ethiopia, Yirgacheffe, Niguse Gemeda Mude*
 
 Roast: *Light/Light-Medium/Medium/Medium-Dark/Dark*

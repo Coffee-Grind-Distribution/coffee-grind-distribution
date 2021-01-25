@@ -9,10 +9,10 @@ Coffee particle distribution is important to get a good pourover, but depending 
 # Aggregated data as of 2021-01-26:
 
 
-| Grinder          | # of Samples | Grind Quality |
-| ---------------- | ------------ |  ------------ |
-| LingLong Ace R1  | 1            | 1.33          |
-| Timemore C2      | 1            | 1.06          |
+| Grinder          | # of Samples | Grind Quality |  Efficiency | Diameter + Scatter |
+| ---------------- | ------------ | ------------- | ----------- | ------------------ |
+| LingLong Ace R1  | 1            | 1.33          | 81.2%       | 1.24 +/- 0.51 mm   |
+| Timemore C2      | 1            | 1.06          | 79.7%       | 1.25 +/- 0.58 mm   |
 
 
 # Prerequisites to submit your data
