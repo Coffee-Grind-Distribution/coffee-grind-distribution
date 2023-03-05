@@ -13,6 +13,7 @@ Coffee particle distribution is important to get a good pourover, but depending 
 | ---------------- | ------------ | ------------- | ----------- | ------------------ |
 | LingLong Ace R1  | 1            | 1.33          | 81.2%       | 1.24 +/- 0.51 mm   |
 | Timemore C2      | 1            | 1.06          | 79.7%       | 1.25 +/- 0.58 mm   |
+| 1ZPresso JX      | 1            | 1.27          | 80.3%       | 1.24 +/- 0.55 mm   |
 
 
 # Prerequisites to submit your data
